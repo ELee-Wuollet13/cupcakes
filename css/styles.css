@@ -1,0 +1,35 @@
+.best {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+      -webkit-background-clip: text;
+      color: transparent;
+}
+
+.flashy {
+  font-style: italic;
+  color: Red;
+}
+
+h1.flashy {
+  font-size: 220px;
+}
+
+p {
+  font-size: 85px;
+}
+
+ul {
+  font-size: 100px;
+}
+
+body {
+  background-image: url("rainbow-cupcake.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+
+}
+
+background-size {
+  width: 240px;
+  height: 300px;
+}
