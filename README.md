@@ -8,6 +8,10 @@ This is a simple site for cupcakes. It illistrates HTML and CSS skills with the 
 
 No known bugs
 
-## For more information or to report a bug, contact Everett.leewuollet@gmail.com.
+## For more information or to report a bug
 
-## Copyright Everett Lee-Wuollet and Angela Weber
+contact Everett.leewuollet@gmail.com.
+
+## Copyright
+
+Everett Lee-Wuollet and Angela Weber
